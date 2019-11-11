@@ -190,7 +190,8 @@ glance(modelnew)
 tidy(modelnew)
 R_pseudo2=1-(184094/557300) 
 R_pseudo2
-###########################    1b)  approach  LOGISTC   REGRESSION  (Multiple logistic regression  )####################################
+
+###########################    1b)  approach  LOGISTC   REGRESSION  (Multiple logistic regression)####################################
 
 ####    feature selection
 
